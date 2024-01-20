@@ -8,6 +8,6 @@ Here I share a few of the tools I recommend when working with computers.
 
 ## [How to study efficiently](https://github.com/Taakefyrsten/Einar-s-Resource-Blog/blob/main/How%20to%20study%20efficiently.md)
 
-## [On Notetaking](https://github.com/Taakefyrsten/Einar-s-Resource-Blog/blob/main/README.md)
+## [On Notetaking]()
 
 ## [How to use large language models for your work](https://github.com/Taakefyrsten/Einar-s-Resource-Blog/blob/main/How%20to%20use%20large%20language%20models%20for%20your%20work.md)
