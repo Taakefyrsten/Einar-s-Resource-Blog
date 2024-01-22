@@ -49,6 +49,6 @@ B) *Talking takes a lot of time*. It’s generally a very unconcise way to prese
 
 There is also another thing that comes into effect: filtration. You’re way more likely to remember the important bits of the lecture. This makes the Brain-dump a really great place to start the rest of your work from, just like the highlighted PowerPoint, however you might find that you want to rework the Brain-dump into a more well written and/or accurate document by looking up the topic in other texts.
 
-*\* I do suggest that, if you have the time, you make doing a Brain-dump after class a habit, no matter the type of class. Repeating what was said in class is a great head start on [spaced repetition](https://github.com/Taakefyrsten/Einar-s-Resource-Blog/blob/main/How%20to%20study%20efficiently.md#2-active-recall).*
+*\* I do suggest that, if you have the time, you make doing a Brain-dump after class a habit, no matter the type of class. Repeating what was said in class is a great head start on [spaced repetition 🔗](https://github.com/Taakefyrsten/Einar-s-Resource-Blog/blob/main/How%20to%20study%20efficiently.md#2-active-recall).*
 
 
