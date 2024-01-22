@@ -22,8 +22,11 @@ Zotero is, in my book, a must have for all students and academics, and really an
 ## Free software for working with images on a computer
 
 Tuning photos and developing raw-format photos: [Darktable 🔗](https://www.darktable.org/) or [RawTherapee 🔗](https://www.rawtherapee.com/)
+
 Editing images: [GIMP 🔗](https://www.gimp.org/)
+
 Editing vector images: [Inkscape 🔗](https://inkscape.org/)
+
 Digital painting: [Krita 🔗](https://krita.org/en/)
 
 ##  Research aids
