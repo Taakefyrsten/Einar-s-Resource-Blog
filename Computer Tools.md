@@ -1,5 +1,7 @@
 # Computer Tools
-If you dislike certain tools here there is always [AlternativeTo](https://alternativeto.net/), where people review and discuss their preferences for different tools and suggest replacements.
+If you dislike certain tools here there is always [AlternativeTo 🔗](https://alternativeto.net/), where people review and discuss their preferences for different tools and suggest replacements.
+
+Additonally I want to preface this: Many of the tools I suggest are very adaptable, and for my personal use I've heavily modified them, but I've not included my "builds" of these systems. Why? Because I think the step of customizing them to your tastes is important. In such a process you will neccesarily reflect upon what you want and need out of your tool. Making your tools more comfortable and productive, like a woodworker tuning the handle and blade of a saw, will give you a *much* better tool in the end. One that will make you more productive. I do however also suggest that you have a look at what are popular modifications as inspiration, you do not need to reinvent the wheel, just modify it for the terrain that is your brain.
 
 ## Notetaking software
 As of January 2024 I think that there are really only two options for notes: **Obsidian & Notion** (well for 99% of people at least). I have a strong preference for Obsidian as your files are stored locally and you have endless customization of the editor. It’s also based on markdown, a small and open file format, so if you need to drop Obsidian you'll still have all of your notes.
@@ -27,4 +29,4 @@ Digital painting: [Krita 🔗](https://krita.org/en/)
 ##  Research aids
 [Research Rabbit](https://researchrabbitapp.com/) is a website that let’s you explore the relationships between scientific articles. If you are in the exploratory phase of writing a text that relies on such articles you research rabbit can give you a great deal of utility. Especially for finding the most “important” articles in the vicinity of the articles in your collection. It also integrates with zotero ❤️.
 
-In addition I suggest [Texas A&M University Libraries excellent post](https://tamu.libguides.com/c.php?g=1289555) on AI based research aids. To me it’s been a great tool to ignore the chaff of terrible LLM-tools and just go use the good ones. Here’s to you TAMU 🍻.
+In addition I suggest [Texas A&M University Libraries excellent post 🔗](https://tamu.libguides.com/c.php?g=1289555) on AI based research aids. To me it’s been a great tool to ignore the chaff of terrible LLM-tools and just go use the good ones. Here’s to you TAMU 🍻.
