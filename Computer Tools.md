@@ -11,7 +11,7 @@ However, there are people who absolutely love Notion, and find the way it operat
 In either case, if working with information is an important step in your work you should spend some time thinking about how and why you are taking notes. [I do have a lot of thoughts on this topic 🔗](https://github.com/Taakefyrsten/Einar-s-Resource-Blog/blob/main/On%20Notetaking.md). And if you have the time you might want to try both options.
 
 ## Citation software / Source manager & reader
-Zotero, my love, my rock, my compatriot. There is no tool that I find easier to recommend than Zotero. If you need to cite more than a few things, I recommend Zotero; if you have more than a couple of PDFs that you need to keep control over, I recommend Zotero; if you are highlighting and rereading these highlights in a digital document, I recommend Zotero; if you are going to reread a highlight in a document more than a couple of times, I recommend Zotero. 
+[Zotero 🔗](https://www.zotero.org/), my love, my rock, my compatriot. There is no tool that I find easier to recommend than Zotero. If you need to cite more than a few things, I recommend Zotero; if you have more than a couple of PDFs that you need to keep control over, I recommend Zotero; if you are highlighting and rereading these highlights in a digital document, I recommend Zotero; if you are going to reread a highlight in a document more than a couple of times, I recommend Zotero. 
 
 Adding new sources to the Zotero library can be as easy as just clicking the browser add-on on a given website, and boom you can cite it correctly. It’s the easiest, the most reliable and the best developed citation software out there.
 
