@@ -13,7 +13,7 @@ The most common way to burn yourself on repeating information is the pitfall bet
 
 #### 1 Spaced Repetition 
 Spaced repetition is the most important step. As you are presented information for the first time you will forget it quite quickly, however if you are reminded of it soon after being presented with the information you will forget it a bit slower. This is a pretty good illustration:
-![[the-forgetting-curve-1536x1240.avif|500]]
+[![The forgetting curve](https://github.com/Taakefyrsten/Einar-s-Resource-Blog/blob/main/images/forgetting_curve.png?raw=true)](https://en.wikipedia.org/wiki/Forgetting_curve)
 
 As you can see we have limited time to repeat the information before we have to start at the beginning again. And this is how most study systems break down. They do not take this curve into account. So, does there exist a system where we can prioritize the information that we are likely to be forgetting, or as I like to call it “in the danger-zone”? 
 
